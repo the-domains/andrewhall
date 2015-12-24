@@ -1,0 +1,28 @@
+name: AndrewHall
+favicon: null
+layout_spectrum: 0.1694812464993447
+typography_spectrum: 0.9274010274093598
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4033569146413356
+  lightness: 0.6883051879703999
+  saturation: 0.29881208506412804
+  rhythmicContrast: 0.1206034985370934
+purpose: []
